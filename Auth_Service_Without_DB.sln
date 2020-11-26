@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auth_Service_Without_DB", "Auth_Service_Without_DB\Auth_Service_Without_DB.csproj", "{1888312C-CE83-47B1-BD65-F98DB848165B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Auth_Service_Without_Db_Test", "Auth_Service_Without_Db_Test\Auth_Service_Without_Db_Test.csproj", "{0B770C60-3E95-43B1-BC5C-A24EBE7C8BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1888312C-CE83-47B1-BD65-F98DB848165B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1888312C-CE83-47B1-BD65-F98DB848165B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1888312C-CE83-47B1-BD65-F98DB848165B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1888312C-CE83-47B1-BD65-F98DB848165B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B770C60-3E95-43B1-BC5C-A24EBE7C8BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B770C60-3E95-43B1-BC5C-A24EBE7C8BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B770C60-3E95-43B1-BC5C-A24EBE7C8BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B770C60-3E95-43B1-BC5C-A24EBE7C8BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF69FFF7-A43E-48C5-BC77-2AC1D0FC7989}
+	EndGlobalSection
+EndGlobal
